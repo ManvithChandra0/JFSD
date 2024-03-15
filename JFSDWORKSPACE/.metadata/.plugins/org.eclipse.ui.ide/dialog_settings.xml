@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/manvithchandra/Desktop/JFSD/JFSDWORKSPACE/SpringWebMVCJDBCProject"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/JFSDWORKSPACE/SpringWebMVCCURDProject"/>
+			<item value="/Users/manvithchandra/Desktop/SpringWebMVCCRUDProject"/>
+			<item value="/Users/manvithchandra/Downloads/untitled folder 2/SpringWebMVCCRUDProject"/>
+			<item value="/Users/manvithchandra/Downloads/untitled folder 2/SpringWebMVCCURDProject"/>
+			<item value="/Users/manvithchandra/Downloads/untitled folder 2/SpringWebMVCProject"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/JFSDWORKSPACE/SpringWebMVCCRUDProject"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/JFSDWORKSPACE/SpringWebMVCProject"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/JFSDWORKSPACE/SpringCoreProject"/>
+			<item value="/Users/manvithchandra/Downloads/SpringCoreProject"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/Demo"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/MicroserviceLabExamProject"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/DemoMicroservice"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/SpringbootExamPracticeProject"/>
+			<item value="/Users/manvithchandra/Downloads/untitled folder 2/WeatherAPISDPProject/WeatherAPISDPProject"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/WeatherAPISDPProject"/>
+			<item value="/Users/manvithchandra/Downloads/untitled folder 2/untitled folder 2/OnlineArtGallery"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/EurerkaServer"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/AdminMicroservice"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/APIGateway"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/EmployeeMicroservice"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/ProductManagementSystem"/>
+			<item value="/Users/manvithchandra/Desktop/JFSD/SpringBootWORKSPACE/SpringBootRESTAPIJPAProject"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="427"/>
+		<item key="DIALOG_Y_ORIGIN" value="117"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+</section>

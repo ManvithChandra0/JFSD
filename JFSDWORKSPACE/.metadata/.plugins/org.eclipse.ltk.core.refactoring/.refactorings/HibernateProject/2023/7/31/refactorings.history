@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Product.java&apos; to &apos;HibernateProject/src/main/java/com.klef.jfsd.HCQL&apos;&#x0A;- Original project: &apos;HibernateProject&apos;&#x0A;- Destination element: &apos;HibernateProject/src/main/java/com.klef.jfsd.HCQL&apos;&#x0A;- Original element: &apos;com.klef.jfsd.HQL.Product.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.klef.jfsd.HCQL" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.klef.jfsd.HQL{Product.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1690776707922" units="1" version="1.0"/>
+</session>

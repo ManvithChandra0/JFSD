@@ -1,0 +1,21 @@
+package com.klef.jfsd.HCQL;
+
+import javax.persistence.*;
+
+@Entity
+@Table(name="employee_table")
+public class Employee 
+{
+  @Id
+  @Column(name="pid")
+  private int id;
+  @Column(name="ename",length = 20,nullable = false)
+  private String name;
+  @Column(name="edept",length = 20,nullable = false)
+  private String dept;
+  @Column(name="econtact",length = 20,nullable = false)
+  private String contact;
+
+
+
+}

@@ -1,0 +1,76 @@
+package com.klef.jfsd.HCQL;
+
+import java.util.List;
+
+import org.hibernate.*;
+import org.hibernate.cfg.*;
+import org.hibernate.criterion.Order;
+import org.hibernate.criterion.Projections;
+import org.hibernate.criterion.Restrictions;
+
+public class HCQLDemo {
+public static void main(String[] args)
+	{
+		HCQLDemo  demo = new HCQLDemo();
+		//demo.insertproduct();
+
+		demo.pagination();
+	}
+	public void insertproduct()
+	{
+		Configuration cfg = new Configuration();
+	       cfg.configure("hibernate.cfg.xml");
+	       
+	       SessionFactory sf = cfg.buildSessionFactory();
+	       Session session = sf.openSession();
+	       
+	       Employee employee = new Employee();
+	       employee.setId(103);
+	       employee.setName("chandra");
+	       employee.setContact("9634151591");
+	       employee.setDept("ece");
+	       
+	       Transaction t = session.beginTransaction();
+	       session.save(employee);
+	       t.commit();
+	       
+	       System.out.println("Employee Object Saved Successfully");
+	       
+	       session.close();
+	       sf.close();
+	}
+
+
+	public void pagination()
+    {
+      Configuration cfg = new Configuration();
+        cfg.configure("hibernate.cfg.xml");
+        
+        SessionFactory sf = cfg.buildSessionFactory();
+        Session session = sf.openSession();
+        
+        Criteria c = session.createCriteria(Employee.class);
+        c.setFirstResult(1); 
+        c.setMaxResults(3);  
+        List<Employee> plist = c.list();
+        System.out.println("*****Pagination*****");      
+        System.out.println("Number of Employees="+plist.size());
+        if(plist.size()>0)
+        {
+          for(Employee p : plist)
+          {
+            System.out.println(p.toString());
+          }
+        }
+        else
+        {
+          System.out.println("Product Data Not Found");
+        }
+        
+       
+        session.close();
+        sf.close();
+    }
+	
+	
+}

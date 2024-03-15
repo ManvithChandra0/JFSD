@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Fri Sep 29 10:11:21 IST 2023
+org.eclipse.jst.j2ee.server\:/binary\:/Users/manvithchandra/.m2/repository/org/springframework/spring-web/5.3.29/spring-web-5.3.29.jar=/Users/manvithchandra/Desktop/JFSD/Softwares/apache-tomcat-8.5.92/wtpwebapps/SpringWebMVCJDBCProject/WEB-INF/lib/spring-web-5.3.29.jar
+org.eclipse.jst.j2ee.server\:SpringWebMVCJDBCProject=/Users/manvithchandra/Desktop/JFSD/Softwares/apache-tomcat-8.5.92/wtpwebapps/SpringWebMVCJDBCProject
+org.eclipse.jst.jee.server\:/binary\:/Users/manvithchandra/.m2/repository/org/springframework/spring-web/5.3.29/spring-web-5.3.29.jar=/Users/manvithchandra/Desktop/JFSD/Softwares/apache-tomcat-8.5.92/wtpwebapps/SpingWebMVCHibernateProject/WEB-INF/lib/spring-web-5.3.29.jar
+org.eclipse.jst.jee.server\:SpingWebMVCHibernateProject=/Users/manvithchandra/Desktop/JFSD/Softwares/apache-tomcat-8.5.92/wtpwebapps/SpingWebMVCHibernateProject

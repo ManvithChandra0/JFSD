@@ -1,0 +1,17 @@
+1696755454021	Rename type 'Employee'
+1696755495729	Rename type 'EmployeeRepository'
+1696755541108	Rename type 'EmployeeService'
+1696755557474	Rename type 'EmployeeServiceImpl'
+1696756372867	Rename resource 'empreg.jsp'
+1696756862218	Rename resource 'emplogin.jsp'
+1696757138242	Rename resource 'emphome.jsp'
+1696757792076	Rename resource 'empnavbar.jsp'
+1696758213531	Rename resource 'viewallemps.jsp'
+1696758276175	Rename resource 'viewalluser.jsp'
+1696758347486	Rename resource 'deleteemp.jsp'
+1697084579742	Rename resource 'viewempbyid.jsp'
+1697187563629	Delete element
+1697187725362	Delete element
+1697288763066	Rename resource 'news.js'
+1697289148546	Move 2 resources to 'js'
+1697289239047	Move 'mapp.js' to 'js'

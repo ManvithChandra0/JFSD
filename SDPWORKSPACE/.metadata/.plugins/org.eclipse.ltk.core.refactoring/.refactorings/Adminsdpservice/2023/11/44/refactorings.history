@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;css, images&apos; to &apos;admin&apos;" description="Move 2 resources to &apos;admin&apos;" destination="src/main/webapp/admin" element1="src/main/webapp/css" element2="src/main/webapp/images" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="2" stamp="1699009267617" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+127.0.0.1 - - [27/Sep/2023:19:53:37 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [27/Sep/2023:19:53:38 +0530] "GET /SpringWebMVCJDBCProject/ HTTP/1.1" 200 1484
+0:0:0:0:0:0:0:1 - - [27/Sep/2023:19:53:41 +0530] "GET /SpringWebMVCJDBCProject/viewallemps HTTP/1.1" 200 1584
+0:0:0:0:0:0:0:1 - - [27/Sep/2023:19:54:16 +0530] "GET /SpringWebMVCJDBCProject/viewallemps HTTP/1.1" 200 1584
